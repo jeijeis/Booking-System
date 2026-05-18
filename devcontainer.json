@@ -1,0 +1,8 @@
+{
+  "name": "Python PySide6",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {}
+  }
+}
